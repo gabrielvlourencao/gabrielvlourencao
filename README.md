@@ -1,5 +1,5 @@
 # Sobre mim
-Olá me chamo Gabriel e trabalho como desenvolvedor desde meus 17 anos e estudo desenvolvimento desde meus 14 anos, acumulo anos de experiencia com desenvolvimento FullStack e alcancei a posição de Tech Lead desenhando soluções e estando a frente de uma Squad
+Olá me chamo Gabriel e trabalho como desenvolvedor desde meus 17 anos e estudo desenvolvimento desde meus 14 anos, acumulo anos de experiencia com desenvolvimento FullStack
 
 <p align="center">
   <a href="https://louren72.github.io/gabriel-lourencao.github.io/"><img src="https://img.shields.io/badge/-Github.io-24292e?logo=Github&logoColor=white&link=https://louren72.github.io/gabriel-lourencao.github.io/"></a>
