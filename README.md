@@ -2,7 +2,7 @@
 
 # Gabriel Lourenção
 
-**Tech Lead na Raízen · Full Stack · aprendendo na prática desde os 17**
+**Desenvolvimento full stack · Liderança técnica · Trajetória iniciada aos 17 anos**
 
 [![GitHub Pages](https://img.shields.io/badge/Portfolio-GitHub.io-24292e?style=for-the-badge&logo=github&logoColor=white)](https://gabrielvlourencao.github.io/gabriel-lourencao.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-louren%C3%A7%C3%A3o/)
@@ -12,30 +12,30 @@
 
 ---
 
-## Oi, eu sou o Gabriel
+## Apresentação
 
-Comecei cedo, aprendendo **na prática**: errando bastante, evoluindo no processo e levando isso como parte do jogo.
+Sou desenvolvedor de software com formação essencialmente prática: comecei cedo, aprendi com a experiência, cometi erros e evoluí a partir deles — processo que considero parte natural da carreira técnica.
 
-Hoje sou **Tech Lead na Raízen**, mas o que mais me anima continua sendo **colocar a mão no código** — construir coisa nova, melhorar o que já existe ou caçar aquele bug que **só aparece em produção**.
-
----
-
-## O que eu faço
-
-Trabalho **backend e frontend**, passando por **arquitetura**, **integrações** e tudo o que aparece no caminho. Gosto de **código limpo**, solução que funciona de verdade e sistema que **aguenta o tranco no mundo real** — principalmente quando o tempo de resposta resolve brincar com a gente.
-
-**No dia a dia:** `.NET`, **APIs**, integrações (tipo **ServiceNow**) e desafios que **não aparecem no tutorial**.
+Atuo também em **liderança técnica**, porém mantenho o foco em **contribuir diretamente no código**: desenvolver soluções novas, refatorar e aprimorar sistemas existentes e diagnosticar problemas complexos, inclusive os que se manifestam prioritariamente em ambiente produtivo.
 
 ---
 
-## Como eu penso
+## Áreas de atuação
 
-Sempre aprendendo, sempre ajustando… e tentando **não deployar nada crítico na sexta-feira**.
+Trabalho em **backend** e **frontend**, envolvendo **arquitetura de software**, **integrações entre sistemas** e demais demandas do ciclo de vida de aplicações. Priorizo **código legível e sustentável**, soluções objetivas e arquiteturas que se comportem bem sob carga real — com atenção particular a desempenho e confiabilidade.
+
+**Stack e contexto habitual:** `.NET`, **APIs REST** (e integrações correlatas), experiência com plataformas corporativas como **ServiceNow**, além de cenários que raramente estão cobertos por material didático genérico.
+
+---
+
+## Postura profissional
+
+Busco aprendizado contínuo e revisão constante das próprias práticas. Na entrega, privilegio critério e planejamento — inclusive no que diz respeito ao momento de colocar mudanças sensíveis em produção.
 
 <div align="center">
 
 ---
 
-*Se quiser trocar ideia sobre produto, engenharia ou aquele edge case que ninguém documentou, chama nos links acima.*
+*Para contato profissional ou conversas sobre engenharia de software, utilize os links acima.*
 
 </div>
