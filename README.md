@@ -24,8 +24,6 @@ Atuo também em **liderança técnica**, porém mantenho o foco em **contribuir 
 
 Trabalho em **backend** e **frontend**, envolvendo **arquitetura de software**, **integrações entre sistemas** e demais demandas do ciclo de vida de aplicações. Priorizo **código legível e sustentável**, soluções objetivas e arquiteturas que se comportem bem sob carga real — com atenção particular a desempenho e confiabilidade.
 
-**Stack e contexto habitual:** `.NET`, **APIs REST** (e integrações correlatas), experiência com plataformas corporativas como **ServiceNow**, além de cenários que raramente estão cobertos por material didático genérico.
-
 ---
 
 ## Postura profissional
